@@ -180,11 +180,11 @@ export const  projectsList=[
         // demo:"https://samtube-youtube-clone.vercel.app/"
     },
     {
-        id:3,
-        image:BlogAppProjectImg,
-        title:"Crafting Seamless Blogging Website with MERN for Your Next-gen!",
-        github:"https://github.com/Sameerkhan9412/BlogWebApp_Using_MERN_Stack",
-        demo:"https://blog-web-app-using-mern-stack.vercel.app"
+        // id:3,
+        // image:BlogAppProjectImg,
+        // title:"Crafting Seamless Blogging Website with MERN for Your Next-gen!",
+        // github:"https://github.com/Sameerkhan9412/BlogWebApp_Using_MERN_Stack",
+        // demo:"https://blog-web-app-using-mern-stack.vercel.app"
     },
     {
         // id:4,
@@ -194,11 +194,11 @@ export const  projectsList=[
         // demo:"https://sam-videoconfrencing-app.vercel.app/"
     },
     {
-        id:6,
-        image:weatherProject,
-        title:"Realtime Weather Checker Website On Any Location",
-        github:"https://github.com/Sameerkhan9412/Weather-App",
-        demo:"https://sameerkhan9412.github.io/Weather-App/"
+        // id:6,
+        // image:weatherProject,
+        // title:"Realtime Weather Checker Website On Any Location",
+        // github:"https://github.com/Sameerkhan9412/Weather-App",
+        // demo:"https://sameerkhan9412.github.io/Weather-App/"
     },
 
 ]
